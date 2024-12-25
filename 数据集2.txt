@@ -1,0 +1,32 @@
+UCI Battery Data Set
+https://archive.ics.uci.edu/ml/datasets/Battery+Discharge+Data
+
+NASA Battery Data Set
+https://www.nasa.gov/content/prognostics-center-of-excellence-data-set-repository
+
+SEI Battery Data Set (Carnegie Mellon University)
+https://www.sae.org/standardsdev/groundvehicle/batterytestdata
+
+EV Battery Dataset on Kaggle
+https://www.kaggle.com/datasets
+
+IEEE Battery Aging Data
+https://ieeexplore.ieee.org/
+
+CALCE Battery Data Set (University of Maryland)
+https://www.calce.umd.edu/
+
+Li-ion Battery Dataset on Kaggle
+https://www.kaggle.com/datasets
+
+Purdue Battery Data Set
+https://engineering.purdue.edu/
+
+DOE EV Battery Data
+https://www.energy.gov/eere/vehicles/data
+
+Open Battery Data Project
+https://openbatterydata.org/
+
+数据集：kaggle
+https://www.kaggle.com/datasets?search=battery
